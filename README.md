@@ -27,4 +27,5 @@ We have trained and evaluated RLS-YOLO on the [self built dataset](https://githu
 For the ablation experiments described in the paper, the model weights files are located in the [./weight/ablation](https://github.com/batter-and-batter/RLS-YOLO/tree/master/ultralytics-main/weight/ablation) folder.
 
 ## Copyright Notice
-Many utility codes of our project are based on the codes from the [ultralytics](https://github.com/ultralytics/ultralytics), [Large Separable Kernel Attention](https://github.com/StevenLauHKHK/Large-Separable-Kernel-Attention) and [RCS-YOLO](https://github.com/mkang315/RCS-YOLO) repositories.
+Many utility codes of our project are based on the codes from the [ultralytics](https://github.com/ultralytics/ultralytics), [Large Separable Kernel Attention](https://github.com/StevenLauHKHK/Large-Separable-Kernel-Attention), [Shape-IoU](https://github.com/malagoutou/Shape-IoU) and [RCS-YOLO](https://github.com/mkang315/RCS-YOLO) repositories.
+
